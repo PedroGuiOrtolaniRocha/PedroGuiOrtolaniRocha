@@ -1,6 +1,6 @@
 ## Pedro Ortolani ##
-Desenvolvedor Salesforce Trainne - XCL
-Analise e desenvolvimeto de sistemas - UNIP
+Desenvolvedor Salesforce Trainne - XCL<br>
+Analise e desenvolvimeto de sistemas - UNIP<br><br>
 
 Descoberta do ano XCL 2024!   <img align="center" alt="Python" height="30" width="40" src="https://xcl.digital/wp-content/uploads/2023/09/XCL-Logo-Vermelho.svg">
 
