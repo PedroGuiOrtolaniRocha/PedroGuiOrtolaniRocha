@@ -1,5 +1,5 @@
 ## Pedro Ortolani ##
-Apaixonado por Linux<br>
+Apaixonado por Linux e .NET<br>
 Desenvolvedor Salesforce - XCL<br>
 Analise e desenvolvimeto de sistemas - UNIP<br><br>
 
@@ -15,4 +15,10 @@ Descoberta do ano XCL 2024!   <img align="center" alt="Python" height="30" width
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+</div>
+
+### Estatísticas ##
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuiOrtolaniRocha&theme=transparent&layout=donut">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroGuiOrtolaniRocha&show_icons=true&count_private=true&theme=transparent"/>
 </div>
