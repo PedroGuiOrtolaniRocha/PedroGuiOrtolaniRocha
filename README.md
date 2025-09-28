@@ -34,7 +34,3 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGuiOrtolaniRocha&theme=transparent"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroGuiOrtolaniRocha&theme=transparent"/>
 </div>
-
----
-
-Se quiser, posso te ajudar a adicionar uma seção de projetos com links diretos, certificados com badges ou até um botão de contato por e-mail. Quer deixar ainda mais completo?
