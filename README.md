@@ -16,6 +16,8 @@
   <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
 ### 🐧 Sistemas & Automação
@@ -29,8 +31,6 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGuiOrtolaniRocha&show_icons=true&theme=transparent&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuiOrtolaniRocha&layout=compact&theme=transparent"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGuiOrtolaniRocha&theme=transparent"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroGuiOrtolaniRocha&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuiOrtolaniRocha&layout=compact&theme=transparent&hide_border=true"/>
 </div>
