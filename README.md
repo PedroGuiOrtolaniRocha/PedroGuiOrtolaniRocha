@@ -4,7 +4,8 @@
 🎓 Análise e Desenvolvimento de Sistemas — UNIP  
 🐧 Apaixonado por Linux, .NET e soluções que transformam ideias em código
 
-🚀 Desenvolvedor Salesforce no [Grupo Primo](https://www.grupo-primo.com/)  <img align="top" alt="GP Logo" height="30" width="40" src="http://www.w3.org/2000/svg">
+🚀 Desenvolvedor Salesforce no [Grupo Primo](https://www.grupo-primo.com/)  
+<img align="center" alt="GP Logo" height="200" width="200" src="https://tutodigital.com.br/wp-content/uploads/2023/05/E6F27788-D19F-46F9-8201-297854BE1FEE.png">
 
 ---
 
