@@ -4,7 +4,7 @@
 🎓 Análise e Desenvolvimento de Sistemas — UNIP  
 🐧 Apaixonado por Linux, .NET e soluções que transformam ideias em código
 
-🚀 Desenvolvedor Salesforce na [XCL](https://xcl.digital/)  <img align="top" alt="XCL Logo" height="30" width="40" src="https://xcl.digital/wp-content/uploads/2023/09/XCL-Logo-Vermelho.svg">
+🚀 Desenvolvedor Salesforce no [Grupo Primo](https://www.grupo-primo.com/)  <img align="top" alt="GP Logo" height="30" width="40" src="http://www.w3.org/2000/svg">
 
 ---
 
