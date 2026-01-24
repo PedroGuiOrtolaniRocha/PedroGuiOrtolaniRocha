@@ -1,7 +1,7 @@
 # 👨‍💻 Pedro Ortolani  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/pedro-ortolani-6283ab203/)
 
-🎓 Análise e Desenvolvimento de Sistemas — UNIP  
+🎓 Análise e Desenvolvimento de Sistemas  
 🐧 Apaixonado por Linux, .NET e soluções que transformam ideias em código
 
 🚀 Desenvolvedor Salesforce no [Grupo Primo](https://www.grupo-primo.com/)  
