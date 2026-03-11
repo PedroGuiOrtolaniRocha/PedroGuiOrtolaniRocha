@@ -6,7 +6,7 @@
 
 <div>
   🚀 Desenvolvedor Salesforce em
-  <img align="center" alt="GP Logo" height="75" width="75" src="https://media.licdn.com/dms/image/v2/C560BAQFOlVM5UNHlsw/company-logo_200_200/company-logo_200_200/0/1630649498794?e=2147483647&v=beta&t=WIhTxFwmB7dygWbQrmTJg6JFr7BNYz3l6IWpNP1ZXHY" href="https://www.grupo-primo.com/">
+  <img align="center" alt="GP Logo" height="250" width="200" src="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Branco.svg">
 </div>
 ---
 
