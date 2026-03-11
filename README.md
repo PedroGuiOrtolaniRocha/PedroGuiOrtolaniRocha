@@ -5,7 +5,7 @@
 🐧 Apaixonado por Linux, .NET e soluções que transformam ideias em código
 
 <div>
-  🚀 Desenvolvedor Salesforce em
+  🚀 Desenvolvedor Salesforce 
   <a href="https://www.grupo-primo.com/" title="Grupo Primo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Branco.svg">
