@@ -10,10 +10,13 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Branco.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Preto.svg">
-      <img align="center" alt="GP Logo" height="100" width="200" src="" url="https://www.grupo-primo.com/">
+      <img align="middle" alt="GP Logo" height="50" width="200"
+           src="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Preto.svg">
     </picture>
   </a>
 </div>
+
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
