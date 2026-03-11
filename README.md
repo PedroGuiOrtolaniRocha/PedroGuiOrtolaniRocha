@@ -4,9 +4,10 @@
 🎓 Análise e Desenvolvimento de Sistemas  
 🐧 Apaixonado por Linux, .NET e soluções que transformam ideias em código
 
-🚀 Desenvolvedor Salesforce no [Grupo Primo](https://www.grupo-primo.com/)  
-<img align="center" alt="GP Logo" height="200" width="200" src="https://tutodigital.com.br/wp-content/uploads/2023/05/E6F27788-D19F-46F9-8201-297854BE1FEE.png">
-
+<div>
+  🚀 Desenvolvedor Salesforce em
+  <img align="center" alt="GP Logo" height="75" width="75" src="https://media.licdn.com/dms/image/v2/C560BAQFOlVM5UNHlsw/company-logo_200_200/company-logo_200_200/0/1630649498794?e=2147483647&v=beta&t=WIhTxFwmB7dygWbQrmTJg6JFr7BNYz3l6IWpNP1ZXHY" href="https://www.grupo-primo.com/">
+</div>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
