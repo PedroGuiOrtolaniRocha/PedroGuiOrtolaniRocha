@@ -6,7 +6,11 @@
 
 <div>
   🚀 Desenvolvedor Salesforce em
-  <img align="center" alt="GP Logo" height="250" width="200" src="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Branco.svg">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Branco.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PedroRochaGrupoPrimo/GP-Icons/blob/main/Grupo%20Primo%20Preto.svg">
+  <img align="center" alt="GP Logo" height="250" width="200" src="">
+</picture>
 </div>
 ---
 
